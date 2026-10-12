@@ -1,0 +1,9 @@
+{
+  "rows": 1941,
+  "columns": 34,
+  "missing_cells": 0,
+  "exact_duplicate_rows": 0,
+  "validation": "passed",
+  "duplicate_policy": "Flag, do not drop: identical measurements may be distinct observations.",
+  "raw_sha256": "08994f5b0185a8e6cc22afe9910fd36834990fb1ca30852ed79012a832fbff55"
+}

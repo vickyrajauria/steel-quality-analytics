@@ -1,0 +1,8 @@
+fault_type,records,total_pixels,mean_pixels,pixel_share_pct,pixel_area_rank
+K Scratch,391,2980458,7622.65,81.08,1
+Other Faults,673,393282,584.37,10.7,2
+Z Scratch,190,96253,506.59,2.62,3
+Bumps,402,95863,238.47,2.61,4
+Pastry,158,88736,561.62,2.41,5
+Dirtiness,55,19992,363.49,0.54,6
+Stains,72,1434,19.92,0.04,7

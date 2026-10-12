@@ -1,0 +1,8 @@
+{
+  "url": "https://archive.ics.uci.edu/static/public/198/steel+plates+faults.zip",
+  "retrieved": "2026-10-12",
+  "sha256": {
+    "Faults.NNA": "08994f5b0185a8e6cc22afe9910fd36834990fb1ca30852ed79012a832fbff55",
+    "Faults27x7_var": "887dbfa140b48877b706865ef277550dc0203699243c600e24bfe8b090a9a953"
+  }
+}

@@ -1,0 +1,15 @@
+steel_type,fault_type,records,steel_sample_size,within_steel_share_pct
+A300,Bumps,279,777,35.91
+A300,Other Faults,266,777,34.23
+A300,Z Scratch,172,777,22.14
+A300,Pastry,49,777,6.31
+A300,Dirtiness,9,777,1.16
+A300,K Scratch,1,777,0.13
+A300,Stains,1,777,0.13
+A400,Other Faults,407,1164,34.97
+A400,K Scratch,390,1164,33.51
+A400,Bumps,123,1164,10.57
+A400,Pastry,109,1164,9.36
+A400,Stains,71,1164,6.1
+A400,Dirtiness,46,1164,3.95
+A400,Z Scratch,18,1164,1.55

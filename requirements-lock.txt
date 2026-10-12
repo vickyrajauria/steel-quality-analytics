@@ -1,0 +1,5 @@
+# Tested direct runtime dependencies; transitive dependencies resolve via pip.
+pandas==2.2.3
+numpy==2.3.5
+matplotlib==3.10.8
+streamlit==1.65.0

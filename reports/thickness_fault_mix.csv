@@ -1,0 +1,20 @@
+thickness_band,fault_type,records,band_sample_size,within_band_share_pct
+51-100,Bumps,275,837,32.86
+51-100,Other Faults,273,837,32.62
+51-100,Z Scratch,172,837,20.55
+51-100,Pastry,80,837,9.56
+51-100,Dirtiness,35,837,4.18
+51-100,K Scratch,1,837,0.12
+51-100,Stains,1,837,0.12
+<=50,K Scratch,390,825,47.27
+<=50,Other Faults,212,825,25.7
+<=50,Bumps,92,825,11.15
+<=50,Stains,71,825,8.61
+<=50,Pastry,39,825,4.73
+<=50,Dirtiness,13,825,1.58
+<=50,Z Scratch,8,825,0.97
+>100,Other Faults,188,279,67.38
+>100,Pastry,39,279,13.98
+>100,Bumps,35,279,12.54
+>100,Z Scratch,10,279,3.58
+>100,Dirtiness,7,279,2.51
